@@ -1,5 +1,6 @@
 {
     "name": "افضل لعبه",
+    "version": "1.0.0",
     "description": "",
     "dependencies": {
         "device": "*"
